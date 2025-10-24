@@ -17,3 +17,5 @@ Bem-vindo ao meu portfólio! Aqui compartilho meus projetos de estudos em progra
 - Pequenos programas de prática
 
 https://github.com/isaacmoretti32-lang/portfolio.git
+
+portifolio_isaac_moretti.zip](https://github.com/user-attachments/files/23136323/portifolio_isaac_moretti.zip)
